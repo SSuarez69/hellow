@@ -1,0 +1,15 @@
+/home/sergio/Desarrollo/csharp/hellow/bin/Debug/net7.0/hellow
+/home/sergio/Desarrollo/csharp/hellow/bin/Debug/net7.0/hellow.deps.json
+/home/sergio/Desarrollo/csharp/hellow/bin/Debug/net7.0/hellow.runtimeconfig.json
+/home/sergio/Desarrollo/csharp/hellow/bin/Debug/net7.0/hellow.dll
+/home/sergio/Desarrollo/csharp/hellow/bin/Debug/net7.0/hellow.pdb
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.csproj.AssemblyReference.cache
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.AssemblyInfoInputs.cache
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.AssemblyInfo.cs
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.csproj.CoreCompileInputs.cache
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.dll
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/refint/hellow.dll
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.pdb
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/hellow.genruntimeconfig.cache
+/home/sergio/Desarrollo/csharp/hellow/obj/Debug/net7.0/ref/hellow.dll
